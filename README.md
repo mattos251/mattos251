@@ -1,8 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="" />
-&nbsp;&nbsp;&nbsp;
 
-<p align="center">My name is Lucas Matos. I am a Frontend developer, , but I also work as a QA <br><br> 
- From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs
+<p align="center">My name is Lucas Matos. I am a Frontend developer.
  
 
 <div  align="center" style="margin-bottom:100px">
